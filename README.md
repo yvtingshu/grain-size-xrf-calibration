@@ -250,7 +250,7 @@ Because the confidential source datasets are not distributed, the numerical resu
 After the repository is archived and a DOI is assigned, add the DOI for the archived release here:
 
 ```text
-DOI: [to be added after archival]
+DOI: 10.5281/zenodo.22009723
 ```
 
 ## License
